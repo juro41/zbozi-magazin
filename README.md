@@ -1,0 +1,2 @@
+# zbozi-magazin
+test
